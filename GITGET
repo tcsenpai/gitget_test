@@ -1,7 +1,13 @@
 {
-    "tasks": [{
-    "type": "python",
-    "usage": "gitest",
-    "name": "gitest"
-     }]
+    "tasks": [
+        {
+            "type": "pip",
+            "usage": "gitest",
+            "name": "gitest"
+         },
+         {
+            "type": "python",
+            "usage": "python3 standalone.py",
+            "name": "standalone.py"
+    ]
 }
