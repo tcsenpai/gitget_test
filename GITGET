@@ -9,5 +9,6 @@
             "type": "python",
             "usage": "python3 standalone.py",
             "name": "standalone.py"
+         }
     ]
 }
