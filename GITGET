@@ -2,8 +2,8 @@
     "tasks": [
         {
             "type": "pip",
-            "usage": "gitest",
-            "name": "gitest"
+            "usage": "pipx",
+            "name": "pipx"
          },
          {
             "type": "python",
@@ -14,8 +14,8 @@
 
          {
             "type": "npm",
-            "usage": "npmtest",
-            "name": "npmtest"
+            "usage": "mega-linter-runner",
+            "name": "mega-linter-runner"
          },
          {
             "type": "js",
