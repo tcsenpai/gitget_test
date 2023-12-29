@@ -11,6 +11,12 @@
             "name": "standalone.py",
             "alias": "gotgit"
          },
+
+         {
+            "type": "npm",
+            "usage": "npmtest",
+            "name": "npmtest"
+         },
          {
             "type": "js",
             "usage": "node jstest.js",
