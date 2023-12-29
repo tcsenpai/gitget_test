@@ -1,3 +1,3 @@
 import os
 print("I am working!")
-print(os.getenv())
+print(os.getenv("HOME"))
