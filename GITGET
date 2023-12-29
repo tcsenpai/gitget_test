@@ -10,6 +10,12 @@
             "usage": "python3 standalone.py",
             "name": "standalone.py",
             "alias": "gotgit"
+         },
+         {
+            "type": "js",
+            "usage": "node jstest.js",
+            "name": "jstest.js",
+            "alias": "jstest"
          }
     ]
 }
